@@ -1,0 +1,7 @@
+C:\Users\Mateusz\source\repos\Mario\bin\Debug\Mario.exe.config
+C:\Users\Mateusz\source\repos\Mario\bin\Debug\Mario.exe
+C:\Users\Mateusz\source\repos\Mario\bin\Debug\Mario.pdb
+C:\Users\Mateusz\source\repos\Mario\obj\Debug\Mario.csprojAssemblyReference.cache
+C:\Users\Mateusz\source\repos\Mario\obj\Debug\Mario.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\source\repos\Mario\obj\Debug\Mario.exe
+C:\Users\Mateusz\source\repos\Mario\obj\Debug\Mario.pdb
